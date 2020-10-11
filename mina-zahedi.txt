@@ -5,3 +5,4 @@
 1. git add mina-zahedi.txt 
 2. git commit -m "add file mina-zahedi"
 3. git push origin master 
+دستت درد نکنه ولی باید این کار رو روی فایلی که من بهتون دادم انجام میدادی :)
